@@ -13,7 +13,11 @@ body {
       display: flex;
       gap: 50px; /* espacio entre listas */
     }
-    
+    .contenedor span {
+        color: rgb(17, 188, 111);
+        border: solid;
+        font-style: italic;
+    }
 .titulo {
     text-align: center;
     font-family: 'mi_fuente',Verdana, Geneva, Tahoma, sans-serif;
