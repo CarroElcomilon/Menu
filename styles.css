@@ -10,7 +10,7 @@ body {
       
     }
    .contenedor {
-      display: flex;
+      display: inline;
       gap: 50px; /* espacio entre listas */
     }
     .contenedor span {
