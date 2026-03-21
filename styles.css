@@ -13,7 +13,7 @@ body {
       display: flex;
       gap: 50px; /* espacio entre listas */
     }
-    .contenedor span {
+     span {
         color: rgb(17, 188, 111);
         border: solid;
         font-style: italic;
