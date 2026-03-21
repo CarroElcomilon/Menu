@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'mi_fuente';
+    src: url('./Monsieur_La_Doulaise/MonsieurLaDoulaise-Regular.ttf')format('truetype');
+}
+
+body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background-color: bisque;
+      
+    }
+   .contenedor {
+      display: flex;
+      gap: 50px; /* espacio entre listas */
+    }
+    
+.titulo {
+    text-align: center;
+    font-family: 'mi_fuente',Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(177, 113, 113);
+    font-size: 80px;
+    gap: 10px;
+    
+}
+
+fieldset {
+    background-color: beige;
+    background-image:url(mhamburguer.jpg);
+   
+}
+
+ li img {
+      width: 100px;   /* tamaño de la imagen */
+      height: 100px;
+      margin-right: 10px; /* espacio entre imagen y texto */
+    }
