@@ -38,7 +38,7 @@ fieldset {
       height: 100px;
       margin-right: 10px; /* espacio entre imagen y texto */
     }
- li span img {
+ ul li .rect img {
       width: 100px;   /* tamaño de la imagen */
       height: 150px;
       margin-right: 10px; /* espacio entre imagen y texto */
